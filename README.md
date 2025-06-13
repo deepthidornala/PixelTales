@@ -69,11 +69,15 @@ With the project running locally:
  - Enjoy a clean, responsive UI optimized for all users—whether creative professionals or casual tinkerers.
 
 ### Results
+*Login Page -*
 ![Login Page](https://github.com/deepthidornala/PixelTales/blob/master/1.3.png)
-*Login Page*
+*Sign Up Page -*
 ![Sign Up Page](https://github.com/deepthidornala/PixelTales/blob/master/1.4.png)
+*Home Page -*
 ![Home Page](https://github.com/deepthidornala/PixelTales/blob/master/1.5.png)
+*Generate Image -*
 ![Generate Image](https://github.com/deepthidornala/PixelTales/blob/master/1.1.png)
+*Generate Story -*
 ![Generate Story](https://github.com/deepthidornala/PixelTales/blob/master/1.2.png)
 
 ### Future Scope
@@ -88,7 +92,6 @@ With the project running locally:
 - AR Integration: Use AR to place your generated visuals in the real world.
 
 ### Contact
-Deepthi Dornala
 Email -  deepthidornala@gmail.com
 
 
