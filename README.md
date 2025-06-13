@@ -70,15 +70,20 @@ With the project running locally:
 
 ### Results
 *Login Page -*
-![Login Page](https://github.com/deepthidornala/PixelTales/blob/master/1.3.png)
+![1 3](https://github.com/user-attachments/assets/ea0d2ee5-583d-485d-9d3b-cde0faac2f3e)
+
 *Sign Up Page -*
-![Sign Up Page](https://github.com/deepthidornala/PixelTales/blob/master/1.4.png)
+![1 4](https://github.com/user-attachments/assets/6d834624-7405-4a02-8f23-1f6e3dedeb34)
+
 *Home Page -*
-![Home Page](https://github.com/deepthidornala/PixelTales/blob/master/1.5.png)
+![1 5](https://github.com/user-attachments/assets/b341cf2f-7101-4871-a400-136013a66323)
+
 *Generate Image -*
-![Generate Image](https://github.com/deepthidornala/PixelTales/blob/master/1.1.png)
+![1 1](https://github.com/user-attachments/assets/4dffdee7-45d7-490a-acdc-15241b02acc9)
+
 *Generate Story -*
-![Generate Story](https://github.com/deepthidornala/PixelTales/blob/master/1.2.png)
+![1 2](https://github.com/user-attachments/assets/4c53d050-9e67-472d-a2fa-6a9bd166eb13)
+
 
 ### Future Scope
 - Advanced Model Integration: Support for diffusion 3.0, Gemini Ultra.
