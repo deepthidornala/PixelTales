@@ -70,6 +70,7 @@ With the project running locally:
 
 ### Results
 ![Login Page](https://github.com/deepthidornala/PixelTales/blob/master/1.3.png)
+*Login Page*
 ![Sign Up Page](https://github.com/deepthidornala/PixelTales/blob/master/1.4.png)
 ![Home Page](https://github.com/deepthidornala/PixelTales/blob/master/1.5.png)
 ![Generate Image](https://github.com/deepthidornala/PixelTales/blob/master/1.1.png)
